@@ -7,7 +7,7 @@ RUN git clone https://github.com/alvinzhou66/ToolFinder
 
 RUN conda install -c conda-forge yarn
 
-RUN cd ToolFinder/Docker_workspace && yarn install
+RUN cd ToolFinder && yarn install
 
 RUN pip install --upgrade pip
 
