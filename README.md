@@ -39,7 +39,7 @@ docker build -t coss .
 Run it
 ```
 docker run -p 5006:5006 -it coss
-```
+```  
 
 If you have the following <b>error</b> while building docker container:  
 ![image](/images/error.png) 
