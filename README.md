@@ -41,10 +41,11 @@ Run it
 docker run -p 5006:5006 -it coss
 ```  
 4. Possible error while using Docker.  
+  
+If you have this error (it happens to 2 machines in our team).  
+![image](/images/error.png)
 
-If you have the following <b>error</b> while building docker container (it happens to 2 machines in our team):  
-![image](/images/error.png) 
-Please check your docker server version, make sure it is up-to-date, or try to purge your current docker server and try it again. We do have the requirement.txt file in that directory, so the error should be caused by the server.
+In the directory which has <i>our Dockerfile</i>, build the Please check your docker server version, make sure it is up-to-date, or try to purge your current docker server and try it again. We do have the requirement.txt file in that directory, so the error should be caused by the server.
 --------------------------------------
 
 For <b>binary classifiers</b>, just run the 4 ipynb script in "/binary_classifier" folder.
