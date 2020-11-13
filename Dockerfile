@@ -11,7 +11,7 @@ RUN cd ToolFinder/Docker_workspace && yarn install
 
 RUN pip install --upgrade pip
 
-COPY ../requirements.txt /opt/app/requirements.txt
+COPY requirements.txt /opt/app/requirements.txt
 
 RUN pip install -r /opt/app/requirements.txt
 
