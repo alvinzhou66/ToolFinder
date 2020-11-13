@@ -40,8 +40,8 @@ Run it
 ```
 docker run -p 5006:5006 -it coss
 ```  
---------------------------------------
-4. Possible error while using Docker
+4. Possible error while using Docker.  
+
 If you have the following <b>error</b> while building docker container (it happens to 2 machines in our team):  
 ![image](/images/error.png) 
 Please check your docker server version, make sure it is up-to-date, or try to purge your current docker server and try it again. We do have the requirement.txt file in that directory, so the error should be caused by the server.
