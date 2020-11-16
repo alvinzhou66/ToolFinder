@@ -16,6 +16,11 @@ ToolFinder can work with any URL input, this URL doesn't have to be a README.md,
 
 For any problems when using ToolFinder, please open an issue on our [GitHub](https://github.com/alvinzhou66/ToolFinder/issues) repository.
 
+## Project Report
+To watch video report, please watch this: [![YouTube video(Recommend to watch with 1440P and full screen)]({https://drive.google.com/file/d/1TJP0c6vi2jpPMeelWnziEMAWI4VUaHW0/view?usp=sharing})]({https://www.youtube.com/watch?v=rAfuDYiMqe4} "Video Rport") 
+
+To read the text report, please download this google document: https://drive.google.com/file/d/18ly1LHfnbX0ePWWCJZWK9LuCDzyuICSJ/view?usp=sharing 
+
 ## Features
 For any given URL link, we can extract the following information:
 - <b>Function</b>: Now this project basically faces to data science researchers so it ONLY has "DA-data analysis", "DM-data management" and "DL-deep learning" 3 classes. For any URL input, you will have the predicted probability for these 3 classes.
