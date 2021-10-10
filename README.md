@@ -42,7 +42,7 @@ docker run -p 5006:5006 -it coss
 ```  
 4. Possible error while using Docker.  
   
-If you have this error (it happens to 2 machines in our team).  
+If you have this error ""failed to solve with frontend dockerfile.v0" (it happens to 2 machines in our team).  
 ![image](/images/error.png)
 
 Please check your docker server version, make sure it is up-to-date, or try to purge your current docker server and try it again.
