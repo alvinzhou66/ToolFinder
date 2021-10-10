@@ -1,5 +1,5 @@
 # ToolFinder [![DOI](https://zenodo.org/badge/309178983.svg)](https://zenodo.org/badge/latestdoi/309178983)
- Software Metadata Classification Project, for study purpose at USC | DSCI560.
+ Software Metadata Classification Project
  
  <b>Team members</b>: Xihao Zhou, Ruohan Gao, Gan Xin, Hao Yang, Yifan Li, Dongsheng Yang
 ## Documentation
